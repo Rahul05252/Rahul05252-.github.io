@@ -31,7 +31,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c2afb5404858ff0dc5daa321b712de71
 "assets/Assets/Images/x%2520twiitter.png": "7eb57922b9ac9c7a5f1d1c490fcac6d8",
 "assets/FontManifest.json": "9953af1ed7bfbba6a674d9bf0d4d714a",
 "assets/fonts/MaterialIcons-Regular.otf": "b7c5050b77e270f3a4aa2d1e8a3aa755",
-"assets/NOTICES": "d7ae5d53b5d9e8200aece2d95cbb3df2",
+"assets/NOTICES": "267d5f81ea3861ad58c40dcf86b32a44",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "1fb35e01025dc929c981fd7387146ce6",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
@@ -66,9 +66,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "c2afb5404858ff0dc5daa321b712de71
 "icons/ms-icon-150x150.png": "b06227e3c43b5a70a8acfc24f48b6f88",
 "icons/ms-icon-310x310.png": "070a2aed87408e622602a5580adf0478",
 "icons/ms-icon-70x70.png": "e2f2b39fe2ec5341b8bcdfbaa6541624",
-"index.html": "78455b4e8a4a517b9fbd5e76a65cc842",
-"/": "78455b4e8a4a517b9fbd5e76a65cc842",
-"main.dart.js": "25a307fb88a4e1a3629646a61a769e14",
+"index.html": "c768dc910795aef8ad3c22031ece5ab5",
+"/": "c768dc910795aef8ad3c22031ece5ab5",
+"main.dart.js": "2654b358560b67a5b1a76fad099b36ba",
 "manifest.json": "a3657eb97850ed6840f7e87950955688",
 "version.json": "89f27a9f4e6bb7e26552c9541033ccf9"};
 // The application shell files that are downloaded before a service worker can
